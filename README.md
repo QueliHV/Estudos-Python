@@ -1,69 +1,67 @@
-# 📘 Python Estudos – Nivelamento e Avanço Profissional
+# 📘 Desenvolvimento Backend Python com Automação e IA
 
-Este repositório contém uma trilha de estudos completa para consolidação dos fundamentos de Python com foco em automação, backend e aplicações com Inteligência Artificial.
-
----
-
-## 🧭 Estrutura dos módulos
-
-### ✅ Módulos de Nivelamento (Base)
-
-- **Módulo 01:** Fundamentos da linguagem  
-- **Módulo 02:** Controle de fluxo  
-- **Módulo 03:** Funções  
-- **Módulo 04:** Estruturas de dados (listas, tuplas, dicionários, sets)
+Este repositório contém uma trilha de estudos completa para se tornar um(a) desenvolvedor(a) backend Python de nível pleno, com foco em automações, criação de APIs e aplicações com Inteligência Artificial.
 
 ---
 
-### 📌 Projetos – Fundamentos e Estruturas de Dados
+## 🧭 Roadmap de Estudos
 
-Projetos desenvolvidos após os 4 primeiros módulos com foco em aplicar os conceitos básicos:
+### 🟢 FASE 1 – Nivelamento e Consolidação dos Fundamentos
 
-- **Projeto 1:** Cadastro de Alunos com Médias  
-- **Projeto 2:** Controle de Presença em Aula  
-
----
-
-### 🚀 Módulos de Avanço Profissional
-
-- **Módulo 05:** Manipulação de arquivos (txt, csv, json)  
-  - *Projeto:* Gerador de Relatórios Simples
-
-- **Módulo 06:** Módulos e pacotes  
-  - *Projeto:* Organização de um sistema em múltiplos arquivos reutilizáveis
-
-- **Módulo 07:** Tratamento de erros  
-  - *Projeto:* Sistema de cadastro com validações e log de erros
-
-- **Módulo 08:** Programação orientada a objetos (OOP)  
-  - *Projeto:* Agenda de Contatos com Classe
-
-- **Módulo 09:** Testes, boas práticas e Git  
-  - *Projeto:* Aplicação com testes automatizados e versionamento completo
-
-- **Módulo 10:** Banco de dados com SQLite e PostgreSQL  
-  - *Projeto:* CRUD de Produtos com SQLite/PostgreSQL
-
-- **Módulo 11:** Consumo e criação de APIs REST (FastAPI)  
-  - *Projeto:* API de Cadastro de Clientes com documentação Swagger
-
-- **Módulo 12:** Web scraping e automações com Python  
-  - *Projeto:* Rastreador de Preços com Notificação
-
-- **Módulo 13:** Introdução à Inteligência Artificial aplicada (Pandas, Scikit-learn)  
-  - *Projeto:* Detecção de anomalias em compras com Pandas e Scikit-learn
-
-- **Módulo 14:** Projeto final completo com IA aplicada e documentação  
-  - *Projeto:* Validador de Dados com IA + README profissional
+1. **Fundamentos da linguagem**  
+2. **Controle de fluxo**  
+3. **Funções**  
+4. **Estruturas de dados**  
+5. **Manipulação de Strings e Funções Úteis**  
+   (strings, fatiamento, `enumerate`, `zip`, `map`, `filter`, `sorted` com `lambda`)
 
 ---
 
-## 📁 Em cada módulo você encontrará:
+### 🟡 FASE 2 – Organização e Resiliência no Código
 
-- 📄 Resumos teóricos
-- 🧠 Exercícios resolvidos
-- 🧪 Aplicações práticas guiadas
-- 🚧 Projetos com valor para o portfólio
+6. **Manipulação de arquivos** (`txt`, `csv`, `json`)  
+7. **Módulos e pacotes**  
+8. **Tratamento de erros**  
+9. **Programação orientada a objetos (POO)**
+
+---
+
+### 🔵 FASE 3 – Desenvolvimento Backend com Python
+
+10. **Banco de dados (SQLite e PostgreSQL)**  
+11. **Criação e consumo de APIs REST com FastAPI**
+
+---
+
+### 🟣 FASE 4 – Profissionalização
+
+12. **Boas práticas, testes e Git**  
+    (PEP8, `pytest`, versionamento com Git/GitHub, documentação)
+
+---
+
+### 🟠 FASE 5 – Automações com Python
+
+13. **Web scraping com BeautifulSoup e requests**  
+14. **Automações com arquivos, e-mails e pastas**  
+15. **Agendamento e execução em lote**
+
+---
+
+### 🔴 FASE 6 – Inteligência Artificial Aplicada
+
+16. **Manipulação e análise de dados com Pandas**  
+17. **Aprendizado de máquina com scikit-learn**  
+18. **Projetos de IA aplicada**  
+    (detecção de anomalias, recomendação, previsões com IA)
+
+---
+
+## 📁 Organização do Repositório
+
+- `modulo_01` até `modulo_18` → materiais de estudo por etapa  
+- `revisoes/` → exercícios de revisão e fixação  
+- `projetos/` → aplicações práticas completas
 
 ---
 
@@ -71,13 +69,14 @@ Projetos desenvolvidos após os 4 primeiros módulos com foco em aplicar os conc
 
 Construir uma base sólida em linguagem Python e evoluir para:
 
-- Automatização de tarefas e robôs
-- Desenvolvimento de APIs e aplicações backend
-- Integração com bancos de dados e arquivos
-- Aplicações reais com inteligência artificial (IA)
+- ✅ Automatização de tarefas com scripts e robôs  
+- ✅ Desenvolvimento de APIs e aplicações backend  
+- ✅ Integração com bancos de dados e arquivos  
+- ✅ Aplicações reais com Inteligência Artificial (IA)
 
 ---
 
 ## 👩‍💻 Autor(a)
 
-Desenvolvido por Queli Hesper – [LinkedIn](https://www.linkedin.com/in/quelihesper/)
+Desenvolvido por **Queli Hesper**  
+[LinkedIn](https://www.linkedin.com/in/quelihesper/)
