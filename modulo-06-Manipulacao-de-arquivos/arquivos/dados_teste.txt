@@ -1,0 +1,5 @@
+Nome,Idade,Nota
+Ana,22,8.5
+Bruno,25,7.2
+Carla,20,9.1
+Daniel,23,6.8
